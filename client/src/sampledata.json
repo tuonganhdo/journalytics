@@ -1,0 +1,64 @@
+{
+    "entries" : [
+        {
+            "date" : "2011-11-28",
+            "sleep" : {
+                "amount" : 5,
+                "bedtime" : 1,
+                "waketime" : 6
+            },
+            "exercise" : {
+                "length" : 0,
+                "intensity" : 0
+            },
+            "diet" : ["Rice cakes", "Ground beef", "Mushrooms", "Matcha"],
+            "medications" : [],
+            "weather" : 1,
+            "period" : 0,
+            "events" : ["Thanksgiving"],
+            "emotions" : ["Stressed", "Tired"],
+            "mood" : 2,
+            "entry" : ""
+        },
+        {
+            "date" : "2024-11-27",
+            "sleep" : {
+                "amount" : 6,
+                "bedtime" : 3,
+                "waketime" : 9
+            },
+            "exercise" : {
+                "length" : 1,
+                "intensity" : 1
+            },
+            "diet" : ["Beef burgers", "Rice cakes", "Jasmine tea", "Matcha"],
+            "medications" : [],
+            "weather" : 2,
+            "period" : 0,
+            "events" : ["House tours"],
+            "emotions" : ["Calm", "Tired"],
+            "mood" : 3,
+            "entry" : ""
+        },
+        {
+            "date" : "2024-11-25",
+            "sleep" : {
+                "amount" : 8,
+                "bedtime" : 0,
+                "waketime" : 8
+            },
+            "exercise" : {
+                "length" : 1,
+                "intensity" : 1
+            },
+            "diet" : ["Matcha", "Salmon filet", "Asparagus"],
+            "medications" : [],
+            "weather" : 0,
+            "period" : 0,
+            "events" : ["Therapy"],
+            "emotions" : ["Happy", "Calm"],
+            "mood" : 4,
+            "entry" : ""
+        }
+    ]
+}
